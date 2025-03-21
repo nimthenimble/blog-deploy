@@ -1,7 +1,7 @@
-baseURL: "http://localhost:1313"
-languageCode: en-us
-title: Steady Blog
-theme: PaperMod
+baseURL: "nimthenimble.github.io/blog-deploy/"
+languageCode: "en-us"
+title: "My Hugo Blog"
+theme: "PaperMod"
 
 params:
   defaultTheme: dark
